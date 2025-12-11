@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9d54b2333865c04889e9c94f55129b1, type: 3}
+  m_Name: SampleBuff_003
+  m_EditorClassIdentifier: 
+  itemId: 87da4c2af29446f1880853e5ad144db7
+  itemName: 
+  description: "\u5168\u4F53\u7684\u306A\u751F\u7523\u91CF\u304C3%\u4E0A\u304C\u308B\u3088"
+  price: 450
+  percent: 3
